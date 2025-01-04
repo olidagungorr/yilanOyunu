@@ -1,0 +1,7 @@
+﻿  animasyon_Test.cpp
+C:\Users\ASUS\Desktop\SFML-3.0.0\animasyon_Test\animasyon_Test\animasyon_Test.cpp(41,29): warning C4309: 'initializing': truncation of constant value
+C:\Users\ASUS\Desktop\SFML-3.0.0\animasyon_Test\animasyon_Test\animasyon_Test.cpp(74,27): warning C4309: '=': truncation of constant value
+C:\Users\ASUS\Desktop\SFML-3.0.0\animasyon_Test\animasyon_Test\animasyon_Test.cpp(75,39): warning C4309: '=': truncation of constant value
+C:\Users\ASUS\Desktop\SFML-3.0.0\animasyon_Test\animasyon_Test\animasyon_Test.cpp(78,27): warning C4309: '=': truncation of constant value
+C:\Users\ASUS\Desktop\SFML-3.0.0\animasyon_Test\animasyon_Test\animasyon_Test.cpp(79,38): warning C4309: '=': truncation of constant value
+  animasyon_Test.vcxproj -> C:\Users\ASUS\Desktop\SFML-3.0.0\animasyon_Test\x64\Debug\animasyon_Test.exe
