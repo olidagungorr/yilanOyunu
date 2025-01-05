@@ -105,7 +105,7 @@ public:
     }
 };
 
-class Yilan : public Sahne {
+class Yilan : public Sahne { // sınıf tanımlıyoruz
 public:
     void yilanOlustur() {
         kuyrukUzunlugu = 1;
